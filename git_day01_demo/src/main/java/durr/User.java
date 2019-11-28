@@ -10,4 +10,5 @@ public class User {
     private String ccc;
     private String rrr;
     private String ccyyycksjdkan;
+    private String haha;
 }
