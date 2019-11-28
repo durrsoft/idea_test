@@ -9,5 +9,5 @@ public class User {
     private String aaa;
     private String ccc;
     private String rrr;
-    private String ccyyyc;
+    private String ccyyycksjdkan;
 }
